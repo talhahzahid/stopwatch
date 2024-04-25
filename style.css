@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+#container{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+}
+#container2{
+    display: flex;
+    /* gap: px; */
+    justify-content: center;
+    align-items: center;
+}
+#btn{
+    padding: 10px;
+    margin: 10px;
+    width: 100px;
+    background-color:aqua;
+    border:  1px solid black;
+    border-radius: 25px;
+}
+#btn:hover{
+    cursor: pointer;
+}
+
+
